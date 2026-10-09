@@ -1,7 +1,9 @@
 # Quote Frame
 
+This project was coded entirely using Claude's Opus 5.5. 
+
 A daily quote frame on a 7.3" colour e-paper display. Each night it shows a
-new passage from Pope Leo XIV's encyclical *Magnifica Humanitas* (15 May 2026),
+new passage from Pope Leo XIV's encyclical [*Magnifica Humanitas* (15 May 2026)](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html),
 on safeguarding the human person in the age of artificial intelligence.
 
 <p align="center"><img src="docs/preview.png" width="400" alt="The frame in portrait, showing the date, a quotation and its paragraph number"></p>
@@ -16,9 +18,7 @@ on safeguarding the human person in the age of artificial intelligence.
 - **Press BOOT** to skip to the next passage
 - Battery level in the footer, with a "please charge" warning when it's low
 
-The image above is drawn by the same layout code the frame runs
-(`tests/render_preview.cpp`). On the real panel the colours are the panel's
-inks rather than pure screen colours.
+The image above shows the actual panel hanging in my classroom.
 
 ---
 
