@@ -4,7 +4,7 @@ A daily quote frame on a 7.3" colour e-paper display. Each night it shows a
 new passage from Pope Leo XIV's encyclical *Magnifica Humanitas* (15 May 2026),
 on safeguarding the human person in the age of artificial intelligence.
 
-<p align="center"><img src="docs/preview.png" width="300" alt="The frame in portrait, showing the date, a quotation and its paragraph number"></p>
+<p align="center"><img src="docs/preview.png" width="400" alt="The frame in portrait, showing the date, a quotation and its paragraph number"></p>
 
 - **102 passages** from every chapter, one a day, spread across the letter so
   consecutive days come from different chapters
